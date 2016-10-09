@@ -13,7 +13,6 @@ public class MainActivity extends AppCompatActivity {
 
     private TextView mTextView;
     private List<String> mList;
-    private TextView mTextView1;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
